@@ -1,4 +1,4 @@
-# Interrupt Controller Simulation (Windows - C Program)
+# Interrupt Controller Simulation (C Program)
 
 This project simulates an **Interrupt Controller System** in C using **Windows threads (Win32 API)**.  
 It demonstrates how hardware interrupts from devices such as a **Keyboard**, **Mouse**, and **Printer** are handled, masked, or ignored based on their enabled/disabled status.
